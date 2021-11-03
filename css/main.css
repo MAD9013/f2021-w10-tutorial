@@ -159,6 +159,8 @@ main {
 .container {
   max-width: 70em;
   margin: 0 auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 
 section > .container {
